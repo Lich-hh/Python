@@ -101,5 +101,6 @@ def poser_question(question, r1, r2, r3, r4, choix_bonne_reponse):
 score = 0
 poser_question(" Quelle est la capitale de la France ?", "Marseille", " Nice", " Paris", " Nantes", "c")
 poser_question(" Quelle est la capitale de L'Italie ?", " Rome", " Venise", " Turin", " Napoli", "a")
+poser_question(" Quelle est la capitale du Maroc ?", "Marakech", "Meknès", "Rabat", "Oujda", "c")
 
 print("Score final :", score)
