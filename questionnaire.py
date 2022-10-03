@@ -20,62 +20,8 @@ Capitale de l'Italie ?
 
 
 """
-"""def reponse_client_france():
 
 
-    a = "Marseille"
-    b = "Nice"
-    c = "Paris"
-    d = "Nantes"
-
-    reponse = input(" Quelle est la capitale de la France :  a = " + a +  " b = " + b + " c = " + c + " d= " + d)
-    if reponse == "c":
-        print(" Bonne réponse ")
-    else:
-        print(" Mauvaise reposne ! ")
-
-def reponse_client_italie():
-
-
-    a = "Venise"
-    b = "Rome"
-    c = "Milan"
-    d = "Napoli"
-
-    reponse = input(" Quelle est la capitale de l'Italie :  a = " + a +  " b = " + b + " c = " + c + " d= " + d)
-    if reponse == "b":
-        print(" Bonne réponse ")
-    else:
-        print(" Mauvaise reposne ! ")
-
-
-def reponse_client_maroc():
-
-
-    a = "Marakech"
-    b = "Mèknes"
-    c = "Oujda"
-    d = "Rabbat"
-
-    reponse = input(" Quelle est la capitale du Maroc :  a = " + a +  " b = " + b + " c = " + c + " d= " + d)
-    if reponse == "d":
-        print(" Bonne réponse ")
-    else:
-        print(" Mauvaise reposne ! ")
-
-def reponse_client_espagne():
-
-
-    a = "Barcelone"
-    b = "Madrid"
-    c = "Bilbao"
-    d = "Séville"
-
-    reponse = input(" Quelle est la capitale du Maroc :  a = " + a +  " b = " + b + " c = " + c + " d= " + d)
-    if reponse == "b":
-        print(" Bonne réponse ")
-    else:
-        print(" Mauvaise reposne ! ")"""
 
 
 def poser_question(question, r1, r2, r3, r4, choix_bonne_reponse):
